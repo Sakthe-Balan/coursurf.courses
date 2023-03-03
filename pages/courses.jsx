@@ -117,7 +117,7 @@ function cousres() {
             <br /> German, Russian, English, Spanish, Korean, Ukrainian
             <br />
             <br />
-            <hr className="linee" />
+            
           </div>
         </div>
       </div>
